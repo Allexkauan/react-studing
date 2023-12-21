@@ -5,7 +5,11 @@ const Header = () => {
  
   return (
     <>
-    <HeaderContent><p>Hello world</p></HeaderContent>
+    <HeaderContent>
+      <div>
+        <p>aalow</p>
+      </div>
+    </HeaderContent>
     </>
   )
 }
